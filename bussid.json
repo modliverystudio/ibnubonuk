@@ -32,36 +32,35 @@
     {
       "id": 1,
       "category":"Bis",
-      "title":"Harapan Jaya",
-      "image":"file:///android_asset/bus.jpeg",
-      "link_mods":"https://aliendro.id/uploads/busid/SR2%20Triple%20Axle.bussidmod",
+      "title":"Bus Luragung Termuda Wulan SR1 Velg STD dan DOP",
+      "image":"https://modbussidterbaru.com/wp-content/uploads/2023/06/19.-Mod-Bussid-Bus-Luragung-Termuda-Wulan-SR1-Velg-STD-dan-DOP.jpg",
+      "link_mods":"https://download2325.mediafire.com/qfqkxgau6gygDeT4riaQMaoLiQ4KfpSy1cctTcFoP9i_gUjvjoJsND5RpmfpprfPuQLRtm2eljEQYaHgszOv9d7njHttiw6AdJDjMZBf7L7Ulp_uWfzb7ii9AxMWv_nO_aMHfHQkDH04H5YTMLjPjP730hLFnpZmCzxKfdkVFaBlDg/kmtj23fpom5y9td/19.+SR2+GEN+1+VELG+STD%2BDOP+AP+SIMPLE+ACC.bussidmod",
       "link_livery":"https://aliendro.id/uploads/busid/Livery Harapan Jaya SR2 Triple Axle.png"
     },
     {
       "id": 2,
       "category":"Bis",
-      "title":"Livery Zentrum JB2 SHD",
-      "image":"https://aliendro.id/uploads/busid/MOD-BUSSID-JB2-SHD.jpeg",
-      "link_mods":"https://aliendro.id/uploads/busid/JB2%20SHD.bussidmod",
+      "title":"Bus Tunggal Jaya Kids Panda Full DOP",
+      "image":"https://modbussidterbaru.com/wp-content/uploads/2023/06/18.-Mod-Bussid-Bus-Tunggal-Jaya-Kids-Panda-Full-DOP.jpg",
+      "link_mods":"https://download2337.mediafire.com/lbe9ato4q4cgbR0iqDHT_Bz7bK9xsvzXcrnmMyX22bLSlGFI7ncc8IzX_JbCfu3s3HFgs5oKJl-RunXp_GGr86_pmQuAeZA7VFRVj8eh95FdLt1u6XYCG4D_oQSG4wZMnPA2QMks0qw5RVu18PYobbtloWBKXCkTbD78yNaemCtuHQ/64o1b3c3nopda7d/18.+JB3+TJ+KIDS+PANDA+FULL+DOP+AP.bussidmod",
       "link_livery":"null"
     },
     {
       "id": 3,
       "category":"Bis",
-      "title":"Bus Telolet",
-      "image":"file:///android_asset/bus3.jpeg",
-      "link_mods":"https://aliendro.id/uploads/busid/Bagasi.bussidmod",
+      "title":"Bus Kurnia Livery Kotor SR1 Mercy Hop",
+      "image":"https://modbussidterbaru.com/wp-content/uploads/2023/06/17.-Mod-Bussid-Bus-Kurnia-Livery-Kotor-SR1-Mercy-Hop.jpg",
+      "link_mods":"https://download2349.mediafire.com/mn74w7jdfuagiQDJFFkBkcpBKJ2rnWJPOFWljICNSHE0lvSFiiUkJ0Y4VYAcLkNxBScNn8qJ2TcMUiVxVWlHLoUafTCCfZG2AvYMhd7XdaJZ8STz-jURkV-KtGGWWBafhAfZjvBmLVlrC51-GBJpUBnRRAJL8YaEm4cvTuKFLIBIJA/4xnylag1aelsax4/17.+SR1_BISA.bussidmod",
       "link_livery":"null"
-    }
-  ,
+    },
     {
       "id": 4,
       "category":"Truk",
-      "title":"Truck UD Quester Bak Muat Kayu",
-      "image":"https://aliendro.id/uploads/busid/Truck UD Quester Bak Muat Kayu.jpeg",
-      "link_mods":"https://aliendro.id/uploads/busid/Truck UD Quester Bak Muat Kayu.bussidmod",
-      "link_livery":"https://aliendro.id/uploads/busid/Truck UD Quester Bak Muat Kayu.png"
-    } ,
+      "title":"Truck Canter Angsa Putih Terpal Segitiga Setengah",
+      "image":"https://modbussidterbaru.com/wp-content/uploads/2022/09/8.-Screenshot_2022-09-02-10-12-44-31_5d347d05ff406c08e59fd63f6905b8af.jpg",
+      "link_mods":"https://download2281.mediafire.com/in2uxl7f87ngMLdBfeZe5INoH2vVSFH7bJZy_Tp0a1y8Jh8F80UAfwFMtu6VycaNw76QL9278lHPpj-L6NCqtlcTIuT88bk8t0LXRB2nx3xPgf5yy66CXVLeLTxI19p_Ujx2LOvahTlJv_HB42gfw4-XwTDQlRzwKuNyDYA7ctTk-g/4i16zg12fahbzmt/8.+Canter+Terpal+Setengah+by+RMC+Creation.bussidmod",
+      "link_livery":"null"
+    },
     {
       "id": 5,
       "category":"Mobil",
@@ -73,10 +72,106 @@
     {
       "id": 6,
       "category":"Truk",
-      "title":"Truck Oleng",
-      "image":"file:///android_asset/truck.webp",
-      "link_mods":"https://aliendro.id/uploads/busid/SR2%20Triple%20Axle.bussidmod",
-      "link_livery":"https://aliendro.id/uploads/busid/Livery Harapan Jaya SR2 Triple Axle.png"
+      "title":"Truck Canter Bandar Susu Terpal Kotak",
+      "image":"https://modbussidterbaru.com/wp-content/uploads/2022/08/5.-Screenshot_2022-08-19-20-24-07-43_5d347d05ff406c08e59fd63f6905b8af.jpg",
+      "link_mods":"https://download2349.mediafire.com/db4nhflm0jmgK2SpRadmEmK67iryvgGxX9H-ybZGGAMqdLRq_wJyoytc3AlxDxwVo08WZPsQl6mC7X6lgR98xfVBZ-DmfgbcqrdiqWSpUxJnSXd0yGLUQnvChU6T96ozdOG2-pJ1TX5Cmo16mAju_3QiLOghXMpIjjMtCak4XoTeJw/n9xfqp28gfmq1am/5.+Canter+Bandar+Susu+Terpal+Kotak+by+RMC+Creation.bussidmod",
+      "link_livery":"null"
+    },
+    {
+      "id": 7,
+      "category":"Truk",
+      "title":"Truck Souleh Art",
+      "image":"https://modbussidterbaru.com/wp-content/uploads/2020/12/mod-bussid-truck-souleh-art-terpal-segitiga.jpg",
+      "link_mods":"https://download2389.mediafire.com/1gn14fq9ynjgcjxaNpmxhWcu8ciUMtYZ6KOn6eoaLMYlp-xWNvZ7vg6XD0MKJo7CVmgPPPTb0IDLDBYEPxlt00Mll7Fuh2vPkrnZzkyDJ1sDYTVh6GTaF77Z32RIRxlKkqOaK6k7jCcsEmt82-WDrClksF48-1JvcQ0MhnvNklx3AQ/l76d9sbaw1nm6aa/3.+Pindang+by+SA+Segitiga.bussidmod",
+      "link_livery":"null"
+    {
+      "id": 8,
+      "category":"Truk",
+      "title":"Truck Mitsubishi Fuso Dump",
+      "image":"https://modbussidterbaru.com/wp-content/uploads/2021/01/Screenshot_2021-01-08-18-54-54-67_5d347d05ff406c08e59fd63f6905b8af.jpg",
+      "link_mods":"https://download2278.mediafire.com/a8lou1ktsidgI0kMS7efCeJmwHbdigBrdjwNiJ-QF3aez4aXP1U_p-DHwbnzmxGxP_E-VarHtJ2g9K2UpjccLQ6-6S4ryogjEDZ-F7aGPDgBIBQn6nOxts8OaoM6qrO1rl6WHagLFHhXDhx4bLf4LIdtZdnQ4SkfGH4-6lnL7TD0JA/os71snrf2tzf9tg/4.MITSUBISHI+FUSO+DUMP+SHARE+BY+JODS+TV.bussidmod",
+      "link_livery":"null"
+    },
+    {
+      "id": 9,
+      "category":"Truk",
+      "title":"Truck TAM Cargo Full Anim",
+      "image":"https://modbussidterbaru.com/wp-content/uploads/2023/06/Truck-TAM-Cargo-Full-Anim.jpg",
+      "link_mods":"https://download2333.mediafire.com/b0tegsy3hj4gHTPbP5PQW2TwNdhix8RO3KouE0iYv4FfIFJf9Fyu2mRFRz_AympvPukiXvLMfFttVCi5qw7lgbJIFfElpUzftlm4lZurhV4E4-VQ95l_Tf-6Slf_rf8bVfQpgpughbp1kvXQg9V6flsOT5lLQHXUwAy7nlgB2ZN2IA/31nsri5mchzxc0j/5.+HINO+DUALFACE.bussidmod",
+      "link_livery":"null"
+    },
+    {
+      "id": 10,
+      "category":"Truk",
+      "title":"Truck Hino 500 Heavy Transport",
+      "image":"https://modbussidterbaru.com/wp-content/uploads/2021/01/Screenshot_2021-01-07-09-55-17-99_5d347d05ff406c08e59fd63f6905b8af.jpg",
+      "link_mods":"https://download2392.mediafire.com/p26ij69mj44gYzUuy3jR14pWVHR0o7mD-VyYY_WuPi2xYou_cjh1Hl12s0DGFTlAuSz-IRRHTb8RttWtLyTqfEMCHMHlYFN_0I711B45av1u_zmi2AYhhPC9XMZzRjm614huy8U5-m5dKPTi1XL8imPnzktMaZ-1qtM8gssQJRK_Kw/uhs1xnypnca8rlj/1.+HINO+500+HEAVY+TRANSPORT.bussidmod",
+      "link_livery":"null"
+    },
+    {
+      "id": 11,
+      "category":"Truk",
+      "title":"Truck Hino 500 Wingbox Tronton DUNEX",
+      "image":"https://modbussidterbaru.com/wp-content/uploads/2023/03/Truck-Hino-500-Wingbox-Tronton-DUNEX.jpg",
+      "link_mods":"https://download2348.mediafire.com/abka3z381cwgiJzpCVsM9z6S7llqZfrVGRP97_Q2uybviKj0ZoOXAKN1byBFVNcI6FRF_loye4nDjPTN48af_DC-ySCuFV-yzx05OvkH34NqGn_OQXzH9ZFvkMMheaugT97erFgM9uv_LnD7a-9c9yzPLWbeuEZ3wI487M6Z0C5U4g/xen6f6piodlwfei/11.+AVANTE+H8.bussidmod",
+      "link_livery":"null"
+    },
+    {
+      "id": 12,
+      "category":"Truk",
+      "title":"Truck Hino 500 Gayor",
+      "image":"https://modbussidterbaru.com/wp-content/uploads/2021/01/Screenshot_2021-01-07-09-59-55-41_5d347d05ff406c08e59fd63f6905b8af.jpg",
+      "link_mods":"https://download2271.mediafire.com/49t0g852zyagCurCCMV50Uneb75VIP68Q-Vf345wp3nyAdGRZHID2MHzqg6wzd8tgOQowtgUO5-C-Soz60fIiQS_Vl7AhUB-aG2mmQLc0r5Ngeyol9jB9FZw6BUlOA9qfY_8g512ECp13OBipD7PmvcDdlMPU_mwk__pbYzwqIaIBA/94zlqkj40blfj09/4.HINO+GAYOR+3.bussidmod",
+      "link_livery":"null"
+    },
+    {
+      "id": 13,
+      "category":"Bis",
+      "title":"Bus QQ Trans Winspector Casper",
+      "image":"https://modbussidterbaru.com/wp-content/uploads/2023/06/14.Mod-Bussid-Bus-QQ-Trans-Winspector-Casper.jpg",
+      "link_mods":"https://download2352.mediafire.com/6syse9wslwfg3shX-fJvHnqH_xxE70FEfuO-rtxZnuRoAUtc9aT6svlKG3et08lL1RxIR4gEzGzziJJDOWTgD9nYIbTIIeJFBi3WnoW5hHnNfslsQ2yZqnSXGGS6A8SqMjW3FoSPCK_jlwV0HSAejScH47t6d6d6-s1DISSxK5N9vA/6ujflofhfwyckkk/14.+CASPER.bussidmod",
+      "link_livery":"null"
+    },
+   {
+      "id": 14,
+      "category":"Bis",
+      "title":"Bus Eka Persada 3D JB3 Hino Ken Arok",
+      "image":"https://modbussidterbaru.com/wp-content/uploads/2023/06/16.-Mod-Bussid-Bus-Eka-Persada-3D-JB3-Hino-Ken-Arok.jpg",
+      "link_mods":"https://download2339.mediafire.com/nnj04iiixiigWOo6HUdPIRt0LoN_ZMoywS9H9kMM1YHuQQ_FYND-0-teReUSAfeir-36fuUW8-yVhXEuxsRu4bbELTS7mRQGBBdpc72Z5agVm6MKHaYexxqr_ykBgnyWghGoDsYHzgtOa6zM72XtZxMzP1mRFtSle-BLto-3qwoSCw/72zjhdlnh88qv6i/16.+JB3+HINO+ALCOA+STD.bussidmod",
+      "link_livery":"null"
+    },
+   {
+      "id": 15,
+      "category":"Bis",
+      "title":"Bus Dewi Permata SR2 F Gen 1 Velg Standard dan DOP",
+      "image":"https://modbussidterbaru.com/wp-content/uploads/2023/06/14.Mod-Bussid-Bus-QQ-Trans-Winspector-Casper.jpg",
+      "link_mods":"https://download2325.mediafire.com/4moo1yvysmyghBHXNXHDscC5VMrvW2RCSO-sr3Pis8RbL2RVCITW5Jf3_7KaWXIARWcfF-7kg_5tvXWj_fu_oHvS_eGZfePbr8tETil6xPoEeudKu5lor2wyuqdRlVZfG4t8ufu9Hijhpu0B4ehVrMDu687X6DWzgLfq5KCK9Z_Vyw/d3svpzexyztr1z3/13.+SR2+GEN+1+VELG+STD%2BDOP+AP+SIMPLE+ACC.bussidmod",
+      "link_livery":"null"
+    },
+   {
+      "id": 16,
+      "category":"Bis",
+      "title":"Bus Shantika Hemilton Bang Regar",
+      "image":"https://modbussidterbaru.com/wp-content/uploads/2023/06/15.-Mod-Bussid-Bus-Shantika-Hemilton-Bang-Regar.jpg",
+      "link_mods":"https://download2324.mediafire.com/2q7bw88t6pwg8floRhnmScGhJNQ1JPDmmKQTZqnCe0dm9lg8-zFuo5U_xRJnTGiLQ8LHpg51xl6x7d1qoWj3v3Nr1pYKifcfZ3ncgzTTiT8WJkC82MVvHdv3W7VtlReUmMOz9w_mW7j_p03Pd4gbXsxgw-qC-h7mY6-Jh0vk-UIo4Q/00ln8ph7ou5rc3b/15.+SR3+2.bussidmod",
+      "link_livery":"null"
+    },
+   {
+      "id": 17,
+      "category":"Bis",
+      "title":"Bris Trans Casper Full Aksesoris",
+      "image":"https://modbussidterbaru.com/wp-content/uploads/2023/06/14.Mod-Bussid-Bus-QQ-Trans-Winspector-Casper.jpg",
+      "link_mods":"https://download2363.mediafire.com/v4fkskbfx94gnK12Y3zGVxWXJ8LQBbZkdQSZSQH45xfQeoxbPq4Bn108dV9hzqgRuwKgUPJKlw8LcifhqEIWT7zWRuPNAIkaBmhjA4ryKXq5zQcxytWNabQd1Or7nmCGl-OJ55WVvl6wQmuR91JEaYYN2R1JXQHcfj1qg7XbJ_8u1Q/nlcjcpga8swsve5/6.+JETBUS+3+SPEK+FULL+ACC+NON+SPOILER.bussidmod",
+      "link_livery":"null"
+    },
+   {
+      "id": 18,
+      "category":"Bis",
+      "title":"Bus Rexus SL Mercy ALS RB99",
+      "image":"https://modbussidterbaru.com/wp-content/uploads/2023/06/5.-Mod-Bussid-Bus-Rexus-SL-Mercy-ALS-RB99.jpg",
+      "link_mods":"https://download2271.mediafire.com/20uf3mhkzmugY-ZMsabKQYj6FrhHtf5w_s6LHwlahadiwpj4L1NyOUirUx_GSSxpz6c4S7zDX3Af3J1Ogubc880kCHOM7fIiVC8Ni483lbAdqZpB9pQ0LyHmKi7q3j9TNX7DG5SbgP7WbLItZFmRhurJFURLzpUsEA8uLmzolL1O_g/4f3xh3x9ji9iggi/5.+rexus+sl+mb+oh1626.bussidmod",
+      "link_livery":"null"
+    },
     }
   ]
 }
